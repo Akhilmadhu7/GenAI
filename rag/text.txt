@@ -1,0 +1,8 @@
+process of rag
+
+- user query and data we have
+- embed it and find the similar data we have with the user query
+- prepare the context with the data which similar to the user query
+- pass  context to llam to generate output
+
+this is RAG(Retrieval, Augmentation, Generate)
