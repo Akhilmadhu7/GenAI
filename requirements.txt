@@ -1,3 +1,8 @@
 python-dotenv
 openai
 numpy
+chromadb
+langchain
+langchain-openai
+langgraph
+langchain_core

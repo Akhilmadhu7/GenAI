@@ -6,3 +6,11 @@ process of rag
 - pass  context to llam to generate output
 
 this is RAG(Retrieval, Augmentation, Generate)
+
+
+RAG pipeline
+1. Take user question
+2. Generate embedding
+3. Reteive relevant documents
+4. Create context
+5. Generate answer using llm

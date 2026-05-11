@@ -115,8 +115,7 @@ def ask_question(user_query:str, n_results:int=3):
         "metadata": result['metadatas'][0]
     }
 
-# test_question = "What should I do if I accidentally deleted something important?" 
-test_question = "What is the capital of India?" 
+test_question = "What should I do if I accidentally deleted something important?" 
 
 result = ask_question(test_question)
 
